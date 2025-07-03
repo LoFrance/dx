@@ -1,5 +1,11 @@
 # @pagopa/dx-cli
 
+## 0.1.2
+
+### Patch Changes
+
+- afee89d: Add `typecheck` script
+
 ## 0.1.1
 
 ### Patch Changes
